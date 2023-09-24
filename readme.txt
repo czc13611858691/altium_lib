@@ -1,8 +1,8 @@
 altium designer pcb设计软件
 
-可以在ad18版本中运行，软件破解版链接--> https://cloud.189.cn/web/share?code=n2YNRjJfu2Yj
+可以在ad18版本中运行
 
-嘉立创JLC库可以在AD9中运行，软件破解版链接--> https://cloud.189.cn/web/share?code=2YR77nRrUFvq
+嘉立创JLC库可以在AD9中运行
 AD9的软件在WIN10中运行会卡顿
 
 更新日志:
